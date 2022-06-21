@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYYrXtXqMEWIIVNAGr7BpEk695aKFQxT1j7JeFt7+TbFoor41JObM2h7TiCY5h+l2N65yOpkl5/Ay62SclC0hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\AhmadFarisi-berkatsoft\\Task1\\ContainLetters\\ContainLetters\\ContainLetters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
